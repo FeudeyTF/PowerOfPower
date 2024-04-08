@@ -1,0 +1,15 @@
+C:\VS\Powers\Powers\bin\Debug\net6.0\Powers.exe
+C:\VS\Powers\Powers\bin\Debug\net6.0\Powers.deps.json
+C:\VS\Powers\Powers\bin\Debug\net6.0\Powers.runtimeconfig.json
+C:\VS\Powers\Powers\bin\Debug\net6.0\Powers.dll
+C:\VS\Powers\Powers\bin\Debug\net6.0\Powers.pdb
+C:\VS\Powers\Powers\obj\Debug\net6.0\Powers.csproj.AssemblyReference.cache
+C:\VS\Powers\Powers\obj\Debug\net6.0\Powers.GeneratedMSBuildEditorConfig.editorconfig
+C:\VS\Powers\Powers\obj\Debug\net6.0\Powers.AssemblyInfoInputs.cache
+C:\VS\Powers\Powers\obj\Debug\net6.0\Powers.AssemblyInfo.cs
+C:\VS\Powers\Powers\obj\Debug\net6.0\Powers.csproj.CoreCompileInputs.cache
+C:\VS\Powers\Powers\obj\Debug\net6.0\Powers.dll
+C:\VS\Powers\Powers\obj\Debug\net6.0\refint\Powers.dll
+C:\VS\Powers\Powers\obj\Debug\net6.0\Powers.pdb
+C:\VS\Powers\Powers\obj\Debug\net6.0\Powers.genruntimeconfig.cache
+C:\VS\Powers\Powers\obj\Debug\net6.0\ref\Powers.dll
